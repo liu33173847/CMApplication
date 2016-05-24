@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<!-- saved from url=(0014)about:intranet -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Unit Tests</title>
+    <link href="tests/libs/qunit/qunit-1.11.0.css" rel="stylesheet" />
+    <script src="tests/libs/sinon/sinon-1.7.1.js"></script>
+    <script src="tests/libs/qunit/qunit-1.11.0.js"></script>
+</head>
+<body>
+    <div id="qunit"></div>
+    <div id="qunit-fixture"></div>
+    <!-- ReSharper disable Html.PathError -->
+    <link href="core/css/item.css" rel="stylesheet" />
+    <script src="core/lib/require/2.1.5/require.js"></script>
+
+    <!-- ReSharper restore Html.PathError -->
+    <script src="testConfigFile.js"></script>
+    <script id="blanketSource" src="tests/libs/blanket/blanket.js"
+        data-cover-only="['//core/js/','//app/']"
+        data-cover-reporter="tests/libs/blanket/headless-reporter.js"
+        data-cover-flags=" ignoreCors branchTracking sourceURL instrumentCache "></script>
+
+
+    <script>
+
+        QUnit.config.autostart = false;
+        require({
+            baseUrl: location.protocol.indexOf("http") === 0 ? "../SignalRWeb" : "../../../CM.Application.SignalRWeb"
+            //,
+            //urlArgs: "bust=" + (new Date()).getTime() // for tests, always enable this..
+        }, [
+            "tests/signalRConnection/coreApplicationHubTests.js",
+            "tests/viewModels/pageViewModelTests.js",
+            "tests/stringTests.js",
+        ], function () {
+            QUnit.start();
+        });
+    </script>
+    <div id="testPlacementDiv" style="visibility: hidden"></div>
+    <div id="testContainer" style="visibility: hidden"></div>
+
+</body>
+</html>

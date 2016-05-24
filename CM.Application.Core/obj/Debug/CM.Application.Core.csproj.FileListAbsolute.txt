@@ -1,0 +1,7 @@
+C:\Users\E864435\Documents\Visual Studio 2015\Projects\CM.Application\CM.Application.Core\bin\Debug\CM.Application.Core.dll
+C:\Users\E864435\Documents\Visual Studio 2015\Projects\CM.Application\CM.Application.Core\bin\Debug\CM.Application.Core.pdb
+C:\Users\E864435\Documents\Visual Studio 2015\Projects\CM.Application\CM.Application.Core\bin\Debug\CM.Application.Common.dll
+C:\Users\E864435\Documents\Visual Studio 2015\Projects\CM.Application\CM.Application.Core\bin\Debug\CM.Application.Common.pdb
+C:\Users\E864435\Documents\Visual Studio 2015\Projects\CM.Application\CM.Application.Core\obj\Debug\CM.Application.Core.csprojResolveAssemblyReference.cache
+C:\Users\E864435\Documents\Visual Studio 2015\Projects\CM.Application\CM.Application.Core\obj\Debug\CM.Application.Core.dll
+C:\Users\E864435\Documents\Visual Studio 2015\Projects\CM.Application\CM.Application.Core\obj\Debug\CM.Application.Core.pdb

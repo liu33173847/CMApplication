@@ -1,0 +1,10 @@
+C:\Users\E864435\Documents\Visual Studio 2015\Projects\CM.Application\CM.Application.ConsoleDriver\bin\Debug\CM.Application.ConsoleDriver.exe.config
+C:\Users\E864435\Documents\Visual Studio 2015\Projects\CM.Application\CM.Application.ConsoleDriver\bin\Debug\CM.Application.ConsoleDriver.exe
+C:\Users\E864435\Documents\Visual Studio 2015\Projects\CM.Application\CM.Application.ConsoleDriver\bin\Debug\CM.Application.ConsoleDriver.pdb
+C:\Users\E864435\Documents\Visual Studio 2015\Projects\CM.Application\CM.Application.ConsoleDriver\bin\Debug\CM.Application.Common.dll
+C:\Users\E864435\Documents\Visual Studio 2015\Projects\CM.Application\CM.Application.ConsoleDriver\bin\Debug\CM.Application.Common.pdb
+C:\Users\E864435\Documents\Visual Studio 2015\Projects\CM.Application\CM.Application.ConsoleDriver\obj\Debug\CM.Application.ConsoleDriver.csprojResolveAssemblyReference.cache
+C:\Users\E864435\Documents\Visual Studio 2015\Projects\CM.Application\CM.Application.ConsoleDriver\obj\Debug\CM.Application.ConsoleDriver.exe
+C:\Users\E864435\Documents\Visual Studio 2015\Projects\CM.Application\CM.Application.ConsoleDriver\obj\Debug\CM.Application.ConsoleDriver.pdb
+C:\Users\E864435\Documents\Visual Studio 2015\Projects\CM.Application\CM.Application.ConsoleDriver\bin\Debug\CM.Application.Core.dll
+C:\Users\E864435\Documents\Visual Studio 2015\Projects\CM.Application\CM.Application.ConsoleDriver\bin\Debug\CM.Application.Core.pdb
